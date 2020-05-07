@@ -41,7 +41,7 @@ User is prompted to enter his/her username and password. If he/she does not have
 
 <a  name="user"></a>
 ## User's Page
- "See Past Orders" button is for the user to view his/her past orders with details. **"New Order"** button is for the user to order new pizzas. User can choose from default pizzas, add extensions to them and must click **"Add to Basket"** button. **"Build Your Own Pizza"** is for the user to create the pizza as he/she desires by adding extensions. User must click "Add to Basket" and "Back to Order Page". Also user can view new recipes added by admin by clicking **"See New Pizzas by Admin"** button. The content and price of the order is shown during the **real-time**. User can confirm or cancel the choses pizzas.
+ "See Past Orders" button is for the user to view his/her past orders with details. **"New Order"** button is for the user to order new pizzas. User can choose from default pizzas, add extensions to them and must click **"Add to Basket"** button. **"Build Your Own Pizza"** is for the user to create the pizza as he/she desires by adding extensions. User must click "Add to Basket" and "Back to Order Page". Also user can view new recipes added by admin by clicking **"See New Pizzas by Admin"** button. The content and price of the order is shown during the **real-time**. User can confirm or cancel the chosen pizzas.
 
 <a  name="admin"></a>
 ## Admin's Page
