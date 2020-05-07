@@ -1,6 +1,3 @@
-# Pizza_Project
-Pizza Ordering Project done by using Python3, SQLite3, Tkinter
-
 # 🍕  PIZZA PROJECT 🍕
 This is a simple **pizza ordering project** made by using technologies such as Python3, SQLite3 for database, and Tkinter for GUI. Pizzas are built with the help of Decorator design pattern.
     
